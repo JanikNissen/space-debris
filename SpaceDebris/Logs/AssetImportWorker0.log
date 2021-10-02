@@ -230,3 +230,58 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3742.126324 seconds.
+  path: Assets/Cobble Games
+  artifactKey: Guid(9c286c9370d5582449e21273ff42d61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games using Guid(9c286c9370d5582449e21273ff42d61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469435998825822cfc912ab77892a8f9') in 0.016484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.534054 seconds.
+  path: Assets/Cobble Games/Spaceship
+  artifactKey: Guid(f63b62005a6f0a74aa3f3ed395c11181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship using Guid(f63b62005a6f0a74aa3f3ed395c11181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8e7a51d64c635f2236ff6e4d2038bb') in 0.011228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.303328 seconds.
+  path: Assets/Cobble Games/Spaceship/hdr.png
+  artifactKey: Guid(486947056826d634ea8563ea4137ec44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship/hdr.png using Guid(486947056826d634ea8563ea4137ec44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26376d13a3342096b4fdc19a201846fa') in 0.095654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Cobble Games/Spaceship/hdri.mat
+  artifactKey: Guid(a16c3253ae2cf1946924a631be02193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship/hdri.mat using Guid(a16c3253ae2cf1946924a631be02193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa77cd65eaeae3605638f4e78c3a2212') in 0.377022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.285742 seconds.
+  path: Assets/Cobble Games/Spaceship/Textures
+  artifactKey: Guid(81491fc9f50637a4d84908b680d401aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship/Textures using Guid(81491fc9f50637a4d84908b680d401aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428777dc1e1626d80c10a6113b1f7f52') in 0.009581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.866455 seconds.
+  path: Assets/Cobble Games/Spaceship/Materials
+  artifactKey: Guid(a93c47eb1725044459fde9adc6b3db0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship/Materials using Guid(a93c47eb1725044459fde9adc6b3db0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a4d8fc535f2b8510e0e0c1f16a9e19') in 0.008433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.418113 seconds.
+  path: Assets/Cobble Games/Spaceship/Meshes
+  artifactKey: Guid(bc85e799eb1cf88488f3a31c8c7f0523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship/Meshes using Guid(bc85e799eb1cf88488f3a31c8c7f0523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79bf50c8dca23965cc156734b45f594a') in 0.008197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073209 seconds.
+  path: Assets/Cobble Games/Spaceship/Meshes/Spaceship.fbx
+  artifactKey: Guid(b566ce7283e47f741b0fa467b5b72884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cobble Games/Spaceship/Meshes/Spaceship.fbx using Guid(b566ce7283e47f741b0fa467b5b72884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca008d5b674bf0dff2f1fdde2ced937') in 0.794817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22797.064940 seconds.
+  path: Assets/Models/motherShip.blend
+  artifactKey: Guid(4bd853c1454389743ba5399e115887af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/motherShip.blend using Guid(4bd853c1454389743ba5399e115887af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41db2efd6cfaa6d0d70fbe9fe4722158') in 0.102647 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
